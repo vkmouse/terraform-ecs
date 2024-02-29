@@ -1,7 +1,6 @@
 {
   "name": "terraform-ecs",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-  "workspaceFolder": "/workspace",
   "features": {
     "ghcr.io/devcontainers/features/terraform:1": {}
   }
